@@ -20,7 +20,6 @@ This section divides the steps for this Project, as follows:
 In order to run the code make sure you are in the `dev` environment. To create a `dev` enviroment that runs python 3.7, go to your terminal and:
 `conda create -n dev python=3.7 anaconda`
 Once the enviroment is created just go to your terminal and type `conda activate dev` and to deactivate enviroment, `conda deactivate dev`.
-If you have any running the code, please go to the `requirements.txt` file and make sure to install the require packages and libraries as follow;
 
 
 # Part 1: Preparing the Data
